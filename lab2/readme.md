@@ -11,3 +11,7 @@ created mesh topologies .
 
 ## 3. Mesh topology usng switch  
 <img width="725" height="558" alt="image" src="https://github.com/user-attachments/assets/fe51ac04-b1d3-4d48-b08f-a5706cb3dd8f" />
+
+
+## Bus Topology 
+<img width="986" height="269" alt="image" src="https://github.com/user-attachments/assets/f2350fcb-3873-49ed-9f40-f0c0961345a7" />
